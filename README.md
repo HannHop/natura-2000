@@ -6,4 +6,5 @@
 - Subscribe to feeds and pass through to telegram (Send messages to telegram contacts)
     - Filter out to only pass images (send out only images)
 - Commands
-    - Add a new feed from telegram (/add_source)
+    - Add a new feed from telegram (e.g. /add_source)
+    - Search by tag (e.g. /search "egg")
